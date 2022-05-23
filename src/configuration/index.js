@@ -3,4 +3,4 @@ export const APP = 'demoAPP'
 export const API_ROOT = '/api'
 export const API_REQUEST_TIMEOUT = 30000
 
-export const MARKETPLACE_TOTAL_FEE = 4
+export const MARKETPLACE_TOTAL_FEE = 2
